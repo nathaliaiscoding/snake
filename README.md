@@ -1,2 +1,2 @@
-# snake
-Snake game done with C#
+# Snake Game
+Snake game done with C# and .NET Framework.
